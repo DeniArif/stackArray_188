@@ -60,6 +60,8 @@ int main() {
 	char ch;
 	while (true) {
 		cout << endl;
+		cout << "\n***Stack Menu***\n";
+
 	}
 
 }
